@@ -8,6 +8,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/ajay-ramesh-0b5072204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajay-ramesh-0b5072204" height="30" width="40" /></a>
 <a href="https://instagram.com/ajayramesh_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ajayramesh_" height="30" width="40" /></a>
+[![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ajayramesh1)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
