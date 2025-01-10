@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ajay Ramesh</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
+<h3 align="center">Passionate Web and Software Developer</h3>
 
 
 - 📫 How to reach me **ajayramesh2626@gmail.com**
